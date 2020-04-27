@@ -1,3 +1,11 @@
-./node_modules/
-/node_modules/
 node_modules/
+node_modules/bcryptjs/package.json
+node_modules/express/package.json
+node_modules/jsonwebtoken/package.json
+node_modules/mime-db/db.json
+node_modules/mime-db/HISTORY.md
+node_modules/mime-db/package.json
+node_modules/mime-db/README.md
+node_modules/mime-types/HISTORY.md
+node_modules/mime-types/package.json
+node_modules/mime-types/README.md
